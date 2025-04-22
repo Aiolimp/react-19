@@ -1,4 +1,4 @@
-import { useHistory } from './hooks/useHistory';
+import { useHistory } from '../hooks/useHistory';
 export const App = () => {
   const [history, push, replace] = useHistory();
   return (
