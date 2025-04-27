@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.text-bg {
+  @apply bg-amber-300 w-100 h-100 text-center justify-center;
+}
